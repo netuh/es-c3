@@ -11,52 +11,71 @@ A lista a seguir resume algumas idéias úteis:
 
 ## Monitoramento de Agenda
 
-<Descrição>
+Descrição
 
 ## Systema de Banco
 
-<Descrição>
+Descrição
 
 ## Reserva de Bilhete aéreo
 
-<Descrição>
+Descrição
  
 ## Sistema de Monitoramento de Tráfego nas Cidades
 
-<Descrição>
+Descrição
 
 ## Sistema de Gestão Hospitalar
 
-<Descrição>
+Descrição
 
 ## Sistema de recarga online
 
+Descrição
+
 ## Gestão Bibliotecária
+
+Descrição
 
 ## Sistema de caixa eletrônico por digital
 
+Descrição
+
 ## Sistema de RH
+
+Descrição
 
 ## Sistemas de criptografia
 
+Descrição
+
 ## Detecção de Fraudes em Cartão de Crédito
+
+Descrição
 
 ## Proteção de Software Contra Pirataria
 
+Descrição
+
 ## OCR (Optical Character Recognition) usando Java
 
+Descrição
 
 ## Sistema de Quiz
 
+Descrição
 
 ## Sistema de rastreamento de Bugs
 
+Descrição
 
 ## Sistema de pagamento online usando Java
 
+Descrição
 
 ## App para rotas turisticas
 
+Descrição
 
 ## Mail Server Project
 
@@ -81,21 +100,27 @@ Algumas ideias são.
 
 ## Sistema para aulas online
 
+Descrição
 
 ## Cloud Computing para Problemas Rurais
 
+Descrição
 
 ## Sistema de rastreamento de ônibus
 
+Descrição
 
 ## Sistema de Atendimento online
 
+Descrição
 
 ## Automação da Universidade
 
+Descrição
 
 ## Transferencia de Informações seguras pela Internet
 
+Descrição
 
 ## Outras Ideias Da lista a IEEE
 
