@@ -9,122 +9,32 @@ A engenharia de software envolve o projeto, o desenvolvimento e a manutenção d
 
 A lista a seguir resume algumas idéias úteis:
 
-## Monitoramento de Agenda
+- Monitoramento de Agenda
+- Systema de Banco
+- Reserva de Bilhete aéreo
+- Sistema de Monitoramento de Tráfego nas Cidades
+- Sistema de Gestão Hospitalar
+- Sistema de recarga online
+- Gestão Bibliotecária
+- Sistema de caixa eletrônico por digital
+- Sistema de RH
+- Sistemas de criptografia
+- Detecção de Fraudes em Cartão de Crédito
+- Proteção de Software Contra Pirataria
+- OCR (Optical Character Recognition) usando Java
+- Sistema de Quiz
+- Sistema de rastreamento de Bugs
+- Sistema de pagamento online usando Java
+- App para rotas turisticas
+- Sistema para aulas online
+- Cloud Computing para Problemas Rurais
+- Sistema de rastreamento de ônibus
+- Sistema de Atendimento online
+- Automação da Universidade
+- Transferencia de Informações seguras pela Internet
+- Outras Ideias Da lista a IEEE
 
-Descrição
-
-## Systema de Banco
-
-Descrição
-
-## Reserva de Bilhete aéreo
-
-Descrição
- 
-## Sistema de Monitoramento de Tráfego nas Cidades
-
-Descrição
-
-## Sistema de Gestão Hospitalar
-
-Descrição
-
-## Sistema de recarga online
-
-Descrição
-
-## Gestão Bibliotecária
-
-Descrição
-
-## Sistema de caixa eletrônico por digital
-
-Descrição
-
-## Sistema de RH
-
-Descrição
-
-## Sistemas de criptografia
-
-Descrição
-
-## Detecção de Fraudes em Cartão de Crédito
-
-Descrição
-
-## Proteção de Software Contra Pirataria
-
-Descrição
-
-## OCR (Optical Character Recognition) usando Java
-
-Descrição
-
-## Sistema de Quiz
-
-Descrição
-
-## Sistema de rastreamento de Bugs
-
-Descrição
-
-## Sistema de pagamento online usando Java
-
-Descrição
-
-## App para rotas turisticas
-
-Descrição
-
-## Mail Server Project
-
-Algumas ideias são.
-
-- Java-based PDF Converter
-- Management System for Pharmacy
-- Management System for Address Book using Java
-- Reminder and Protector of Password
-- Java-based Ajax Browser
-- Detection of Intrusion in WSN
-- Java-based Software for Application Installer
-- Converter from Image to Text
-- Java-based Software for Application Re-installer
-- Explorer of Folder and File
-- Java-based Simulator System for ATM
-- Encryption of Data using Java
-- Management System for Cybercafe
-- Reservation System for Bus Ticket using Java
-- The converter of Text to HTML using Java
-- The list of software engineering projects based on cloud computing includes the following. Please refer to this link to know Cloud Computing Technology and Its Types
-
-## Sistema para aulas online
-
-Descrição
-
-## Cloud Computing para Problemas Rurais
-
-Descrição
-
-## Sistema de rastreamento de ônibus
-
-Descrição
-
-## Sistema de Atendimento online
-
-Descrição
-
-## Automação da Universidade
-
-Descrição
-
-## Transferencia de Informações seguras pela Internet
-
-Descrição
-
-## Outras Ideias Da lista a IEEE
-
-A lista de projetos de engenharia de software do IEEE inclui o seguinte:
+A lista de projetos de ***engenharia de software do IEEE*** inclui o seguinte:
 
 - Mitigating and Degradation of Congested Sensor Networks
 - Sales Order Processing and Invoicing (SOPI)
